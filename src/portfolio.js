@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'AutonomousRacing F1Tenth Car',
     description:
-      'Created a f1Tech racecar that can automatically navigate any building it is placed in. Automatically senses objects and performs obstacle avoidance. Implemented speed control, turning, and obstacle detection.',
+      'Created a F1Tenth racecar that can automatically navigate any building it is placed in. Automatically senses objects and performs obstacle avoidance. Implemented speed control, turning, and obstacle detection.',
     stack: ['Java', 'Python', 'C++'],
     sourceCode: 'https://github.com/AbishaiMarkGundy/AutonomousRacingF1Tenth.git',
     //livePreview: 'https://github.com',
