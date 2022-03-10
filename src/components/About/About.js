@@ -15,12 +15,12 @@ const About = () => {
       )}
 
       {role && <h2 className='about__role'>A {role}.</h2>}
-      <p className='about__desc' style="text-align:center;">{description && description}</p>
+      <p className='about__desc'>{description && description}</p>
 
       <div className='about__contact center'>
         {resume && (
           <a href={resume}>
-            <span type='button' className='btn btn--outline'>
+            <span type='button' className='btn btn--outline' href="../../../Abishai_MarkGundy Resume.pdf" download = "Abishai_MarkGundy Resume.pdf">
               Resume
             </span>
           </a>
