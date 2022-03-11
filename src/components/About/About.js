@@ -19,7 +19,7 @@ const About = () => {
 
       <div className='about__contact center'>
         {resume && (
-          <a href="../Abishai_MarkGundy%20Resume.pdf" download = "Abishai_MarkGundy Resume.pdf">
+          <a href="https://docs.google.com/document/d/1i1p2BzYzOAX5Dhxzly6FhMQAXKr2pFwis0X0-msNdGI/edit?usp=sharing">
             <span type='button' className='btn btn--outline'>
               Resume
             </span>
