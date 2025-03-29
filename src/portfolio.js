@@ -9,7 +9,7 @@ const about = {
   name: 'Abishai Mark Gundy',
   role: 'Full-Stack Developer',
   description:
-    'I am a 4th year CS student at The University of Texas at Austin. This website highlights my skillset and some of the fantastic projects I have worked on. Please feel free to reach out to me! ',
+    'I am  currently a software developer at General Motors. This website highlights my skillset and a few of the fantastic projects I have worked on. Please feel free to reach out to me! ',
   resume: './Abishai_MarkGundy Resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/abishaimg',
@@ -62,7 +62,6 @@ const skills = [
   'Flutter',
   'React',
   'Git',
-  'CI/CD',
   'CADD',
 ]
 
